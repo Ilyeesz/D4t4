@@ -1,0 +1,32 @@
+[
+    {
+        "imageName": "tank1",
+        "title": "M1 Abrams",
+        "description": "The first tank used by the Germans in World War II, it was lightly armored and armed with two machine guns1."
+    },
+    {
+        "imageName": "tank2",
+        "title": "M4 Sherman",
+        "description": "A light tank that was used in the early stages of the war, it was armed with a 20mm cannon and two machine guns."
+    },
+    {
+        "imageName": "tank3",
+        "title": "M60 Patton",
+        "description": "A medium tank that was introduced in 1943, it was armed with a high-velocity 75mm gun and had sloped armor."
+    },
+    {
+        "imageName": "tank4",
+        "title": "M48 Patton",
+        "description": "A heavy tank that was introduced in 1942, it was armed with an 88mm gun and had thick armor."
+    },
+    {
+        "imageName": "tank5",
+        "title": "M3 Lee",
+        "description": " A heavy tank that was introduced in 1944, it was armed with an 88mm gun and had even thicker armor than the Tiger I."
+    },
+    {
+        "imageName": "tank6",
+        "title": "M26 Pershing",
+        "description": "A tank destroyer that was introduced in 1944, it was based on the Panther tank and was armed with a high-velocity 88mm gun."
+    },
+]
