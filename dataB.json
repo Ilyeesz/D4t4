@@ -4,7 +4,7 @@
         "zipUrl": "https://getsamplefiles.com/download/zip/sample-1.zip",
         "title": "Cyclone Safari",
         "description": "Visit Inspiration Island, a floating theme park world filled with creative challenges. Whether you are new to Creative Mode or just need a little extra inspiration, a visit here sets you on the path to craft your own groundbreaking worlds!",
-        "stars": "2",
+        "stars": "5",
         "ratingNum": "5",
         "itemNumDownload": "1.1K",
         "itemNumViews": "4K"
@@ -35,7 +35,7 @@
         "title": "Purple Parrot",
         "description": "Welcome to Farm Life. Experience the challenging life of a farmer. Tend your fields, trade your harvest for better farming equipment, produce food, and become the best farmer in the world!",
         "stars": "3",
-        "ratingNum": "5",
+        "ratingNum": "3",
         "itemNumDownload": "229",
         "itemNumViews": "726"
     },
@@ -44,8 +44,7 @@
         "zipUrl": "https://getsamplefiles.com/download/zip/sample-1.zip",
         "title": "Way of the Bee",
         "description": "Welcome to Farm Life. Experience the challenging life of a farmer. Tend your fields, trade your harvest for better farming equipment, produce food, and become the best farmer in the world!",
-        "stars": "3",
-        "ratingNum": "1",
+        "stars": "4",
         "ratingNum": "4",
         "itemNumDownload": "229",
         "itemNumViews": "726"
@@ -55,7 +54,7 @@
         "zipUrl": "https://getsamplefiles.com/download/zip/sample-1.zip",
         "title": "Summer Gift",
         "description": "Welcome to Farm Life. Experience the challenging life of a farmer. Tend your fields, trade your harvest for better farming equipment, produce food, and become the best farmer in the world!",
-        "stars": "3",
+        "stars": "5",
         "ratingNum": "5",
         "itemNumDownload": "229",
         "itemNumViews": "726"
