@@ -5,6 +5,7 @@
         "title": "Blockworks",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac urna tempus, faucibus lorem nec, pretium dolor. Integer nec turpis nibh. Ut fringilla tortor eget purus efficitur!",
         "stars": "4",
+        "ratingNum": "5",
         "itemNumDownload": "1.3K",
         "itemNumViews": "11K"
     },
@@ -14,6 +15,7 @@
         "title": "Rising lava parkour",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac urna tempus, faucibus lorem nec, pretium dolor. Integer nec turpis nibh. Ut fringilla tortor eget purus efficitur!",
         "stars": "3",
+        "ratingNum": "4",
         "itemNumDownload": "329",
         "itemNumViews": "726"
     },
@@ -23,6 +25,7 @@
         "title": "Spellrune",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac urna tempus, faucibus lorem nec, pretium dolor. Integer nec turpis nibh. Ut fringilla tortor eget purus efficitur!",
         "stars": "5",
+        "ratingNum": "2",
         "itemNumDownload": "220",
         "itemNumViews": "813"
     },
@@ -32,6 +35,7 @@
         "title": "Marine Biologist",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac urna tempus, faucibus lorem nec, pretium dolor. Integer nec turpis nibh. Ut fringilla tortor eget purus efficitur!",
         "stars": "5",
+        "ratingNum": "3",
         "itemNumDownload": "891",
         "itemNumViews": "2.4K"
     },
@@ -41,6 +45,7 @@
         "title": "MINECON EARTH",
         "description": "Featuring the logos that were just begging to be played on, MINECON EARTH has floating landmasses with a surprising amount of hidden secrets and challenges.",
         "stars": "2",
+        "ratingNum": "5",
         "itemNumDownload": "29",
         "itemNumViews": "226"
     },
@@ -50,6 +55,7 @@
         "title": "Birthday Skin",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac urna tempus, faucibus lorem nec, pretium dolor. Integer nec turpis nibh. Ut fringilla tortor eget purus efficitur!!",
         "stars": "5",
+        "ratingNum": "4",
         "itemNumDownload": "83",
         "itemNumViews": "919"
     }
