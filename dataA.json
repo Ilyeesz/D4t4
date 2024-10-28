@@ -5,6 +5,7 @@
         "title": "Inspiration island",
         "description": "Visit Inspiration Island, a floating theme park world filled with creative challenges. Whether you are new to Creative Mode or just need a little extra inspiration, a visit here sets you on the path to craft your own groundbreaking worlds!",
         "stars": "1",
+        "ratingNum": "2",
         "itemNumDownload": "1.1K",
         "itemNumViews": "4K"
     },
@@ -14,6 +15,7 @@
         "title": "International space station",
         "description": "Did you know that humans have been living in space for almost 20 years? Minecraft is celebrating this historic milestone in partnership with NASA with a new International Space Station world for you to explore.",
         "stars": "3",
+        "ratingNum": "5",
         "itemNumDownload": "777",
         "itemNumViews": "2K"
     },
@@ -23,6 +25,7 @@
         "title": "Blockheads",
         "description": "These crazy skins have blocks and mobs for heads! Carry around a cute lil creeper, explosive TNT, or wear a slime on your head like a hat! What's in the '?' block you carry around?",
         "stars": "5",
+         "ratingNum": "5",
         "itemNumDownload": "3K",
         "itemNumViews": "7K"
     },
@@ -32,6 +35,7 @@
         "title": "Farm life",
         "description": "Welcome to Farm Life. Experience the challenging life of a farmer. Tend your fields, trade your harvest for better farming equipment, produce food, and become the best farmer in the world!",
         "stars": "5",
+         "ratingNum": "4",
         "itemNumDownload": "4.5K",
         "itemNumViews": "4.7K"
     }
